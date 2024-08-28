@@ -17,7 +17,7 @@ The Resume Builder Website offers a user-friendly platform for creating and edit
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/priyadarshi30/Resume-Builder.git
+https://github.com/priyadarshi30/Resume-Builder
 ```
 2. Navigate to the project directory
 ```bash
